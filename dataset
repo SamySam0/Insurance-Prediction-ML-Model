@@ -1,0 +1,12 @@
+@relation driver
+
+@attribute 'driving_experience' integer
+@attribute 'MAIP' integer
+
+@data
+5,64
+6,56
+12,50
+9,71
+15,44
+16,60
